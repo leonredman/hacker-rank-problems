@@ -10,7 +10,7 @@
 
 // ar: an array of integers
 
-// SOLUTION
+//  FIRST SOLUTION
 
 /*
  * Complete the simpleArraySum function below.
